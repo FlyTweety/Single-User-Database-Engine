@@ -1,0 +1,2 @@
+1 This is a Single User Database engine written in C++, the outline is based on CMU 15-445
+2 This can support 3 different type of data: int, float, string
